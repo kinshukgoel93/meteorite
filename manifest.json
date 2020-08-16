@@ -1,0 +1,9 @@
+{
+  "short_name": "Meteorite",
+  "name": "rambollmeteorite",
+ 
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#2ad4c7",
+  "background_color": "#2ad4c7"
+}
